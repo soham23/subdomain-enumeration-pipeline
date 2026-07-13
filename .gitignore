@@ -1,0 +1,23 @@
+# Output directory
+outputs/
+
+# Generated enumeration files
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Editors
+.vscode/
+.idea/	
