@@ -5,7 +5,7 @@ This project depends on several third-party reconnaissance tools. Install each d
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/subdomain-enumeration-pipeline.git
+git clone https://github.com/soham23/subdomain-enumeration-pipeline.git
 cd subdomain-enumeration-pipeline
 ```
 
