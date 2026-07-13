@@ -8,7 +8,7 @@
 # ------------------------------------------------------------
 
 if [[ $# -ne 1 ]]; then
-	echo "Usage: ./main.sh <domain"
+	echo "Usage: ./main.sh <domain>"
 	exit 1
 fi
 
@@ -18,6 +18,7 @@ domain="$1"
 # Configuration
 ####################################
 
+# Update these paths to match your local installation.
 PYTHON_PATH=~/python3_venv/bin/
 GO_PACKAGES_PATH=~/go/bin/
 
